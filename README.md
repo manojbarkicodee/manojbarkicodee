@@ -1,42 +1,91 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manoj Barki</h1>
 
-<h1 align="center">Hi 👋, I'm Manoj Barki</h1>
+<h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
-### I'm a **Full Stack Web Developer**. I am from Haveri, Karnataka. I love to explore and learn new technologies. I always had a fondness for technology and coding. I started my journey with basic programming concepts of Java and then I learned JS, HTML, CSS, Express, React and many other web development technologies. I'm open to collaborate on interesting projects.
+## 🙋‍♂️ About Me
+
+I'm a passionate Full Stack Web  and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+
+- 📫 How to reach me **manojjunjappabarki@gmail.com**
+
+- ⚡ Fun fact **I like cooking and traveling very often.**
+
+- 💬 Have a look at my [portfolio](https://manoj-barki-portpofilo.netlify.app/).
+
+<h2 align="center">:computer: Tech Stacks </h2>
+
+<div align="center">
+  
+  ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+  ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+  ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+  ![Boot Strap](https://img.shields.io/badge/BootStrap-%234ea94b.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+ 
+  
+</div> 
+
+<br/>
+<h2 align="center">Stats ⚡</h2>
+<br>
+ 
+<p display="flex" align="center">
+  
+  <a href="https://github.com/manojbarkicodee?tab=repositories">
+    <img width="400" height="auto"  alt="manoj's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=manojbarkicodee&show_icons=true&theme=algolia&count_private=true" />
+  </a> 
+  
+  
+<img alt="Manoj Barki's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojbarkicodee&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
 
-#### 📄 [Resume](https://drive.google.com/file/d/1BTDvimYnptyimReVDDKiXXVR4oxllHBK/view?usp=sharing)
 
-<!----------------------------------- Tech Stack Section ------------------------------------>
-
-<h2><i>Tech Stack</i></h2>
-
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <!-- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" /> -->
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> -->
-    <!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" /> -->
-    <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> -->
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <!-- <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" /> -->
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+ 
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojbarkicodee&hide=smalltalk&theme=algolia&layout=compact" alt="manojbarki" />
 </p>
+
+<br/> 
+
+
+<br>
+<br>
+<br>
 <br>
 
 
-<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 
-<a href="https://www.linkedin.com/in/manoj-barki-024547221/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50" /></a>
-<a href="Mailto:manojjunjappabarki@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="50" /></a>
+[![Manoj barki's activity graph](https://activity-graph.herokuapp.com/graph?username=manojbarkicodee&theme=react-dark)](https://github.com/manojbarkicodee/github-readme-activity-graph)
 
-<br/>
 
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+**manojbarkicodee/manojbarkicodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
