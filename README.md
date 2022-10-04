@@ -12,6 +12,8 @@ I'm a passionate Full Stack Web  and I am interested in developing new things wh
 
 - 💬 Have a look at my [portfolio](https://manoj-barki-portpofilo.netlify.app/).
 
+- 💬 Have a look at my [resume](https://drive.google.com/file/d/1klv2MnZMxGX1G2dyqnNbaRRrwm3GoraT/view).
+
 - 💬 Connect with me [Linkdin](https://www.linkedin.com/in/manoj-barki-024547221/).
 
 <h2 align="center">:computer: Tech Stacks </h2>
