@@ -10,7 +10,7 @@ I'm a passionate Full Stack Web  and I am interested in developing new things wh
 
 - ⚡ Fun fact **I like cooking and traveling very often.**
 
-- 💬 Have a look at my [portfolio](https://manoj-barki-portpofilo.netlify.app/).
+- 💬 Have a look at my [portfolio](https://manojbarkicodee.github.io/).
 
 - 💬 Have a look at my [resume](https://drive.google.com/file/d/1klv2MnZMxGX1G2dyqnNbaRRrwm3GoraT/view).
 
